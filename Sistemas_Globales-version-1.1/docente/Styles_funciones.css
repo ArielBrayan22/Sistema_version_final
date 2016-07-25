@@ -1,0 +1,537 @@
+
+
+table#planes_globales{
+
+	width: 90%;
+	text-align: center;
+}
+
+table#planes_globales tr#titulo{
+	background: blue;
+	color: white;
+}
+
+table#planes_globales tr#subtitulo{
+	background: white;
+	color: black;
+}
+table#tabla_user{
+	background: red;
+	width: 90%;
+	color: white;
+}
+
+table#tabla_Identificacion{
+
+	background:#BDBDBD;
+	width:90%;
+}
+
+table#tabla_Identificacion td{
+
+	padding: .5%;	
+	background: white;
+}
+
+
+
+.id_materia{
+	text-align: center;
+	border-style: none;
+
+}
+.input_invi{
+	visibility: hidden;
+}
+
+.tabla_Cronograma td{
+	
+	padding: 1%;
+	
+	 background:white;
+}
+
+
+.tabla_Cronograma{
+	 background:#BDBDBD;
+	 width: 100%;
+}
+
+
+
+table#planes_globales{
+
+	width: 90%;
+	text-align: center;
+}
+
+table#planes_globales tr#titulo{
+	background: blue;
+	color: white;
+}
+
+table#planes_globales tr#subtitulo{
+	background: white;
+	color: black;
+}
+table#tabla_user{
+	background: red;
+	width: 90%;
+	color: white;
+}
+
+table#tabla_Identificacion{
+
+	background:#BDBDBD;
+	width:90%;
+}
+
+table#tabla_Identificacion td{
+
+	padding: .5%;	
+	background: white;
+}
+
+table#tabla_Materias{
+
+    background:#BDBDBD;
+	width:100%;
+	
+}
+
+table#tabla_Materias td{
+
+    padding: 1%;	
+	background: white;
+}
+
+.id_materia{
+	text-align: center;
+	border-style: none;
+
+}
+.input_invi{
+	visibility: hidden;
+}
+
+.tabla_Cronograma td{
+	
+	padding: .5%;
+	text-align: center;
+	 background:white;
+}
+
+
+.tabla_Cronograma{
+	 background:#BDBDBD;
+}
+
+
+.input_Grupo{
+
+	background-color: white;
+	text-align: center;
+}
+
+.Table_Materia{
+	width: 100%;
+	text-align: center;
+	background-color: white;
+
+}
+
+
+ td#td_Materia{
+ background-color:#154360;
+ width: 57%;
+ padding: .5%;
+ }
+
+ td#td_Grupo{
+ background-color:#154360; 
+ width: 19.2%;
+ padding: .5%;
+ }
+
+td#td_Select{
+    padding: .5%;
+	background-color:#154360;
+	width: 14%;
+}
+td#td_Imprimir{
+ background-color:#154360; 
+ padding: .5%;
+
+}
+
+
+
+
+ td#td_Grupo1{
+
+}
+
+td#td_Boton1{
+
+	
+}
+td#td_Imprimir1{
+
+}
+
+/* Estilos de el buscador*/
+
+table#Manual_Usuario{
+   
+	background-color: red;
+	text-align: center;
+	color: white;
+}
+
+table#Tabla_Video{
+  width: 70%;
+}
+
+table#Tabla_Video td{
+	
+	padding: 1%;
+	width: 80%;
+	background-color: #E5E8E8;
+
+}
+td#td_documentacion{
+	
+	width: 30%;
+}
+
+a#redireccion_imprimir{
+  border: solid blue 1px;
+  text-decoration: none;
+  background: red;
+}
+
+
+h2#titulo_PA{
+  
+  margin: 0px;
+  color:#BDBDBD;
+}
+h3#titulos_PA{
+	background: #81BEF7;
+	border-color: black;
+}
+
+
+
+table#tabla_justificacion{
+
+background-color: #BDBDBD;
+padding: 1%;
+width: 100%;
+margin: 0px;
+
+}
+table#tabla_justificacion td
+{
+	padding: 1%;
+	background-color: white;
+	
+}
+
+table#tabla_Objetivo {
+background-color: #BDBDBD;
+padding: 1%;
+width: 100%;
+margin: 0px;
+	
+}
+
+table#tabla_Objetivo td{
+	background-color: white;
+	padding: 1%;
+}
+
+table#tabla_Unidad{
+background-color: #BDBDBD;
+padding: 1%;
+width: 100%;
+margin: 0px;
+}
+
+table#tabla_Unidad td{
+background-color: white;
+padding: 1%;
+}
+
+table#tabla_sub_Unidad{
+background-color: #BDBDBD;
+padding: 1%;
+width: 100%;
+margin: 0px;
+}
+
+table#tabla_sub_Unidad td{
+background-color: white;
+padding: 1%;
+
+}
+
+table#tabla_Insertar_Unidad{
+background-color: #BDBDBD;
+padding: 1%;
+width: 100%;
+margin: 0px;
+}
+
+table#tabla_Insertar_Unidad td{
+background-color: white;
+padding: 1%;
+}
+
+table#tabla_sub_Creacion_Unidad{
+background-color: #BDBDBD;
+padding: 1%;
+width: 70%;
+margin: 0px;
+}
+
+table#tabla_sub_Creacion_Unidad td{
+background-color: white;
+padding: 1%;
+
+}
+
+table#tabla_Insertar_Objetivo{
+background-color: #BDBDBD;
+padding: 1%;
+width: 70%;
+margin: 0px;
+}
+
+table#tabla_Insertar_Objetivo td{
+background-color: white;
+padding: 1%;
+}
+
+table#tabla_Ingresar_Contenido{
+background-color: #BDBDBD;
+padding: 1%;
+width: 70%;
+margin: 0px;
+}
+
+table#tabla_Ingresar_Contenido td{
+background-color: white;
+padding: 1%;	
+}
+
+table#tabla_editar_unidad{
+	background-color: #BDBDBD;
+	padding: 1%;
+	width: 70%;
+	margin: 0px;
+}
+
+table#tabla_editar_unidad td{
+	background-color: white;
+    padding: 1%;	
+}
+
+table#tabla_Metodologia{
+	background-color: #BDBDBD;
+	padding: 1%;
+	width: 70%;
+	margin: 0px;
+}
+
+table#tabla_Metodologia td{
+	background-color: white;
+    padding: 1%;	
+}
+
+table#tabla_pequena{
+background-color: #BDBDBD;
+	padding: 1%;
+	width: 70%;
+	margin: 0px;
+}
+
+table#tabla_pequena td{
+    background-color: white;
+	padding: 1%;
+	
+}
+
+table#tabla_grande{
+    background-color: #BDBDBD;
+	padding: 1%;
+	width: 100%;
+	margin: 0px;
+}
+table#tabla_grande td{
+    background-color: white;
+	padding: 1%;
+}
+
+.boton_principal_materia{
+	background-color: #BDBDBD;
+	width: 100%;
+	height: 5%;
+	color: black;
+	margin: none;
+	font-size: 18px;
+}
+
+table#tabla_Uno{
+	width: 100%;
+	border:#BDBDBD 4px solid;
+    padding: 1%;
+}
+
+table#tabla_Uno td{
+	padding: .5%;
+	
+}
+
+p#espacio{
+	color:white;
+	background-color: white;
+	margin: 0px;
+}
+
+.cuerpo_impresion{
+
+	padding: 5%;
+}
+
+hr#linea_PA{
+ height: 2px;
+ border:0px;
+ background-color: #BDBDBD;
+
+}
+
+h2#titulo_Principal_PA{
+	margin: 0px;
+}
+
+.tabla_seleccion_pg{
+	width: 100%;
+}
+
+.tabla_seleccion_pg td{
+	padding: 1%;
+
+}
+
+.button_seleccion{
+	width: 80%;
+	height: 30px;
+	font-size: 17px;
+
+}
+table#Tabla_Seleccion_Carrera{
+  
+  width:50%;
+}
+
+table#Tabla_Seleccion_Carrera td{
+  
+
+}
+
+table#tabla_nivel td{
+
+
+}
+.Select_Facultad{
+	width: 100%;
+	height: 30px;
+	font-size: 17px;
+}
+
+.Select_Nivel{
+
+  width: 70%;
+	height: 30px;
+	font-size: 17px;
+	text-align: center;
+}
+
+.etiqueta_h3{
+	margin: 0px;
+}
+
+
+.tabla_materias_nivel {
+ width: 100%;
+}
+
+
+table#tabla_materias_pg{
+	width: 100%;
+}
+
+table#tabla_materias_pg td{
+	
+	padding: 1%;
+}
+td#td_titulo{
+
+	background-color: #154360;
+	color:white;
+}
+
+.Txt_Buscar{
+
+	height: 30px;
+	font-size: 17px;
+	margin-top: 2%;
+	text-transform:uppercase;
+}
+
+.btn_buscar{
+	height: 30px;
+	border-style: none;
+	background-color: #d32f2f;
+	color: white;
+	font-size: 17px;
+
+}
+table#tabla_Buscador{
+	
+	width: 100%;
+}
+
+
+table#tabla_pg_resultados{
+
+	width: 70%;
+	background-color: #BDBDBD;
+	padding: 1%;
+}
+
+table#tabla_pg_resultados td
+{
+	background-color: white;
+	padding: 1%;
+}
+
+td#td_conpact{
+	width: 15%;
+}
+.btn_examinar{
+	border-style: none;
+	background-color: white;
+	font-size: 16px;
+	color:blue;
+	text-decoration:underline;
+}
+.btn_rec{
+	padding-top: 3%;
+	background: url('icon_rv1.png');
+	width:32px; 
+	height:32px; 
+	border-color:white;
+	background-color: red;
+}

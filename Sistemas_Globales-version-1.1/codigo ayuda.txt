@@ -1,0 +1,60 @@
+
+
+
+                <input type='text' name='ID_PG' style='visibility:hidden' value='".$ID_PG."'>
+                  $n=mysql_result($resultado2, 0, "COUNT(*)");
+
+                    /*echo "<form method='post' ation=''>
+           <script>alert('Datos Editados Correctamente');</script>
+                 <input type='text' size='1' name='txt_Cod_M' value='2'>
+                 <input type='submit' value='atras' name='btn_Contenidos'> 
+                 </form>";*/
+
+
+                   echo "<form method='post'>
+                <input type='text' name='ID_PG' style='visibility:hidden' value='".$ID_PG."'>
+                <input type='submit' name='btn_Contenidos' value='atras'>
+                </form>";
+
+
+
+                 echo "<form method='post' ation=''>
+           <script>alert('Datos Editados Correctamente');</script>
+                 <input type='text' size='1' name='txt_Cod_M' value='2'>
+                 <input type='submit' value='atras' name='btn_Contenidos'> 
+                 </form>";
+
+
+                  echo "<form method='post'>
+               <input type='text' name='txt_Cod_M' style='visibility:hidden' value='".$Cod_Materia."'>
+               <input type='text' name='txt_Cod_PG' style='visibility:hidden' value='".$Cod_PG."'>
+               <input type='submit' name='btn_Editar_Materia' value='atras'>
+               </form>";
+
+                echo "<script>alert('Justificacion Eliminada Correctamente');</script>";
+
+                 $Cod_Materia=$_POST['txt_Cod_M'];
+                 $ID_PG=$_POST['txt_Cod_PG'];
+
+
+             <input type='text' name='txt_Cod_PG' style='visibility:hidden' value='"
+                .$ID_PG."'>
+
+             <input type='text' name='txt_Cod_M' style='visibility:hidden' value='"
+                .$Cod_Materia."'>
+
+
+insert into kardex(nombre_k,apellido_k,edad_k)
+values (Old.nombre,Old.apellido,Old.edad)
+
+CREATE TRIGGER respaldo
+AFTER DELETE ON inicio                /* See note (a) */
+  REFERENCING OLD ROW AS Old         /* See note (b) */
+FOR EACH ROW                          /* See note (c) */
+  INSERT INTO prueba(Nombre,Apelldio,Edad)
+      VALUES (Old.nombre,Old.apellido,Old.edad);   
+
+      insert into kardex(ID_PG,tipo,ID_Materia,ID_Docente)
+values (Old.ID_PG,Old.tipo,Old.ID_Materia,Old.ID_Docente)
+
+INSERT INTO `video` (`ID_Video`, `Nombre`, `Caracteristica`) VALUES (NULL, 'DJ Snake Middle ft Bipolar Sunshine.mp4', 'Esto es una prueba de como se pueden ver los videos');

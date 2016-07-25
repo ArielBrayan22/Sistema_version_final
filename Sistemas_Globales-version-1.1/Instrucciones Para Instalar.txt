@@ -1,0 +1,13 @@
+crea una base de datos en tu servidor phpmyadmin/mysql llamada 'planglobal'
+
+verifica que tu server tenga las siguientes cosas para conectar
+server='localhost', user='root', password=''
+
+Una vez creado la Base de Datos planglobal importa en ella la base de datos
+que esta en el archovo en la direccion /bases de datos/.
+
+luego copia el toda la carpeta Sistemas_Globales-versison-1.1 a la direccion 
+en disco c/xampp/htdocs/
+
+luego coloca en tu navegador http:/localhost:/Sistemas_Globales-version-1.1/
+y disfruta del sistema .... XDD 
